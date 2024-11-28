@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\Groups\\Group_1\\\u05E8\u05D0\u05DD \u05EA\u05DE\u05E8\\\u05D3\u05D5\u05D8 \u05E0\u05D8\\FitnessCenter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E32A5DB1-A764-4DA4-9629-66E09FE09E03}|FitnessCenter.Api\\FitnessCenter.Api.csproj|y:\\groups\\group_1\\\u05E8\u05D0\u05DD \u05EA\u05DE\u05E8\\\u05D3\u05D5\u05D8 \u05E0\u05D8\\fitnesscenter\\fitnesscenter.api\\controllers\\secretarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32A5DB1-A764-4DA4-9629-66E09FE09E03}|FitnessCenter.Api\\FitnessCenter.Api.csproj|solutionrelative:fitnesscenter.api\\controllers\\secretarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32A5DB1-A764-4DA4-9629-66E09FE09E03}|FitnessCenter.Api\\FitnessCenter.Api.csproj|y:\\groups\\group_1\\\u05E8\u05D0\u05DD \u05EA\u05DE\u05E8\\\u05D3\u05D5\u05D8 \u05E0\u05D8\\fitnesscenter\\fitnesscenter.api\\controllers\\gymnastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32A5DB1-A764-4DA4-9629-66E09FE09E03}|FitnessCenter.Api\\FitnessCenter.Api.csproj|solutionrelative:fitnesscenter.api\\controllers\\gymnastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32A5DB1-A764-4DA4-9629-66E09FE09E03}|FitnessCenter.Api\\FitnessCenter.Api.csproj|y:\\groups\\group_1\\\u05E8\u05D0\u05DD \u05EA\u05DE\u05E8\\\u05D3\u05D5\u05D8 \u05E0\u05D8\\fitnesscenter\\fitnesscenter.api\\controllers\\guidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32A5DB1-A764-4DA4-9629-66E09FE09E03}|FitnessCenter.Api\\FitnessCenter.Api.csproj|solutionrelative:fitnesscenter.api\\controllers\\guidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE66886-B747-4B86-AE86-B7BA8737232A}|FitnessCenter.Core\\FitnessCenter.Core.csproj|y:\\groups\\group_1\\\u05E8\u05D0\u05DD \u05EA\u05DE\u05E8\\\u05D3\u05D5\u05D8 \u05E0\u05D8\\fitnesscenter\\fitnesscenter.core\\models\\secretary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE66886-B747-4B86-AE86-B7BA8737232A}|FitnessCenter.Core\\FitnessCenter.Core.csproj|solutionrelative:fitnesscenter.core\\models\\secretary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE66886-B747-4B86-AE86-B7BA8737232A}|FitnessCenter.Core\\FitnessCenter.Core.csproj|y:\\groups\\group_1\\\u05E8\u05D0\u05DD \u05EA\u05DE\u05E8\\\u05D3\u05D5\u05D8 \u05E0\u05D8\\fitnesscenter\\fitnesscenter.core\\models\\gimnast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE66886-B747-4B86-AE86-B7BA8737232A}|FitnessCenter.Core\\FitnessCenter.Core.csproj|solutionrelative:fitnesscenter.core\\models\\gimnast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE66886-B747-4B86-AE86-B7BA8737232A}|FitnessCenter.Core\\FitnessCenter.Core.csproj|y:\\groups\\group_1\\\u05E8\u05D0\u05DD \u05EA\u05DE\u05E8\\\u05D3\u05D5\u05D8 \u05E0\u05D8\\fitnesscenter\\fitnesscenter.core\\models\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE66886-B747-4B86-AE86-B7BA8737232A}|FitnessCenter.Core\\FitnessCenter.Core.csproj|solutionrelative:fitnesscenter.core\\models\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE66886-B747-4B86-AE86-B7BA8737232A}|FitnessCenter.Core\\FitnessCenter.Core.csproj|y:\\groups\\group_1\\\u05E8\u05D0\u05DD \u05EA\u05DE\u05E8\\\u05D3\u05D5\u05D8 \u05E0\u05D8\\fitnesscenter\\fitnesscenter.core\\fitnesscenter.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9EE66886-B747-4B86-AE86-B7BA8737232A}|FitnessCenter.Core\\FitnessCenter.Core.csproj|solutionrelative:fitnesscenter.core\\fitnesscenter.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F81E685-5349-46C7-BB16-297B9218D662}|FitnessCenter.Data\\FitnessCenter.Data.csproj|y:\\groups\\group_1\\\u05E8\u05D0\u05DD \u05EA\u05DE\u05E8\\\u05D3\u05D5\u05D8 \u05E0\u05D8\\fitnesscenter\\fitnesscenter.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F81E685-5349-46C7-BB16-297B9218D662}|FitnessCenter.Data\\FitnessCenter.Data.csproj|solutionrelative:fitnesscenter.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B898DC87-DD51-4E19-A6A7-DB20B77E8691}|FitnessCenter.Service\\FitnessCenter.Service.csproj|y:\\groups\\group_1\\\u05E8\u05D0\u05DD \u05EA\u05DE\u05E8\\\u05D3\u05D5\u05D8 \u05E0\u05D8\\fitnesscenter\\fitnesscenter.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B898DC87-DD51-4E19-A6A7-DB20B77E8691}|FitnessCenter.Service\\FitnessCenter.Service.csproj|solutionrelative:fitnesscenter.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SecretaryController.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05E8\u05D0\u05DD \u05EA\u05DE\u05E8\\\u05D3\u05D5\u05D8 \u05E0\u05D8\\FitnessCenter\\FitnessCenter.Api\\Controllers\\SecretaryController.cs",
+              "RelativeDocumentMoniker": "FitnessCenter.Api\\Controllers\\SecretaryController.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05E8\u05D0\u05DD \u05EA\u05DE\u05E8\\\u05D3\u05D5\u05D8 \u05E0\u05D8\\FitnessCenter\\FitnessCenter.Api\\Controllers\\SecretaryController.cs",
+              "RelativeToolTip": "FitnessCenter.Api\\Controllers\\SecretaryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:49:37.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GymnastController.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05E8\u05D0\u05DD \u05EA\u05DE\u05E8\\\u05D3\u05D5\u05D8 \u05E0\u05D8\\FitnessCenter\\FitnessCenter.Api\\Controllers\\GymnastController.cs",
+              "RelativeDocumentMoniker": "FitnessCenter.Api\\Controllers\\GymnastController.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05E8\u05D0\u05DD \u05EA\u05DE\u05E8\\\u05D3\u05D5\u05D8 \u05E0\u05D8\\FitnessCenter\\FitnessCenter.Api\\Controllers\\GymnastController.cs",
+              "RelativeToolTip": "FitnessCenter.Api\\Controllers\\GymnastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:42:31.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GuideController.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05E8\u05D0\u05DD \u05EA\u05DE\u05E8\\\u05D3\u05D5\u05D8 \u05E0\u05D8\\FitnessCenter\\FitnessCenter.Api\\Controllers\\GuideController.cs",
+              "RelativeDocumentMoniker": "FitnessCenter.Api\\Controllers\\GuideController.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05E8\u05D0\u05DD \u05EA\u05DE\u05E8\\\u05D3\u05D5\u05D8 \u05E0\u05D8\\FitnessCenter\\FitnessCenter.Api\\Controllers\\GuideController.cs",
+              "RelativeToolTip": "FitnessCenter.Api\\Controllers\\GuideController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:40:46.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Secretary.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05E8\u05D0\u05DD \u05EA\u05DE\u05E8\\\u05D3\u05D5\u05D8 \u05E0\u05D8\\FitnessCenter\\FitnessCenter.Core\\Models\\Secretary.cs",
+              "RelativeDocumentMoniker": "FitnessCenter.Core\\Models\\Secretary.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05E8\u05D0\u05DD \u05EA\u05DE\u05E8\\\u05D3\u05D5\u05D8 \u05E0\u05D8\\FitnessCenter\\FitnessCenter.Core\\Models\\Secretary.cs",
+              "RelativeToolTip": "FitnessCenter.Core\\Models\\Secretary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:27:39.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gimnast.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05E8\u05D0\u05DD \u05EA\u05DE\u05E8\\\u05D3\u05D5\u05D8 \u05E0\u05D8\\FitnessCenter\\FitnessCenter.Core\\Models\\Gimnast.cs",
+              "RelativeDocumentMoniker": "FitnessCenter.Core\\Models\\Gimnast.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05E8\u05D0\u05DD \u05EA\u05DE\u05E8\\\u05D3\u05D5\u05D8 \u05E0\u05D8\\FitnessCenter\\FitnessCenter.Core\\Models\\Gimnast.cs",
+              "RelativeToolTip": "FitnessCenter.Core\\Models\\Gimnast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:27:03.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Guide.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05E8\u05D0\u05DD \u05EA\u05DE\u05E8\\\u05D3\u05D5\u05D8 \u05E0\u05D8\\FitnessCenter\\FitnessCenter.Core\\Models\\Guide.cs",
+              "RelativeDocumentMoniker": "FitnessCenter.Core\\Models\\Guide.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05E8\u05D0\u05DD \u05EA\u05DE\u05E8\\\u05D3\u05D5\u05D8 \u05E0\u05D8\\FitnessCenter\\FitnessCenter.Core\\Models\\Guide.cs",
+              "RelativeToolTip": "FitnessCenter.Core\\Models\\Guide.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:26:20.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FitnessCenter.Core",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05E8\u05D0\u05DD \u05EA\u05DE\u05E8\\\u05D3\u05D5\u05D8 \u05E0\u05D8\\FitnessCenter\\FitnessCenter.Core\\FitnessCenter.Core.csproj",
+              "RelativeDocumentMoniker": "FitnessCenter.Core\\FitnessCenter.Core.csproj",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05E8\u05D0\u05DD \u05EA\u05DE\u05E8\\\u05D3\u05D5\u05D8 \u05E0\u05D8\\FitnessCenter\\FitnessCenter.Core\\FitnessCenter.Core.csproj",
+              "RelativeToolTip": "FitnessCenter.Core\\FitnessCenter.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T10:01:48.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05E8\u05D0\u05DD \u05EA\u05DE\u05E8\\\u05D3\u05D5\u05D8 \u05E0\u05D8\\FitnessCenter\\FitnessCenter.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "FitnessCenter.Data\\Class1.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05E8\u05D0\u05DD \u05EA\u05DE\u05E8\\\u05D3\u05D5\u05D8 \u05E0\u05D8\\FitnessCenter\\FitnessCenter.Data\\Class1.cs",
+              "RelativeToolTip": "FitnessCenter.Data\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:57:18.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05E8\u05D0\u05DD \u05EA\u05DE\u05E8\\\u05D3\u05D5\u05D8 \u05E0\u05D8\\FitnessCenter\\FitnessCenter.Service\\Class1.cs",
+              "RelativeDocumentMoniker": "FitnessCenter.Service\\Class1.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05E8\u05D0\u05DD \u05EA\u05DE\u05E8\\\u05D3\u05D5\u05D8 \u05E0\u05D8\\FitnessCenter\\FitnessCenter.Service\\Class1.cs",
+              "RelativeToolTip": "FitnessCenter.Service\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:56:52.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

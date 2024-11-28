@@ -1,0 +1,15 @@
+C:\Users\user1\Desktop\דוט נט\FitnessCenter\FitnessCenter.Data\bin\Debug\net6.0\FitnessCenter.Data.deps.json
+C:\Users\user1\Desktop\דוט נט\FitnessCenter\FitnessCenter.Data\bin\Debug\net6.0\FitnessCenter.Data.dll
+C:\Users\user1\Desktop\דוט נט\FitnessCenter\FitnessCenter.Data\bin\Debug\net6.0\FitnessCenter.Data.pdb
+C:\Users\user1\Desktop\דוט נט\FitnessCenter\FitnessCenter.Data\bin\Debug\net6.0\FitnessCenter.Core.dll
+C:\Users\user1\Desktop\דוט נט\FitnessCenter\FitnessCenter.Data\bin\Debug\net6.0\FitnessCenter.Core.pdb
+C:\Users\user1\Desktop\דוט נט\FitnessCenter\FitnessCenter.Data\obj\Debug\net6.0\FitnessCenter.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\דוט נט\FitnessCenter\FitnessCenter.Data\obj\Debug\net6.0\FitnessCenter.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\דוט נט\FitnessCenter\FitnessCenter.Data\obj\Debug\net6.0\FitnessCenter.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\דוט נט\FitnessCenter\FitnessCenter.Data\obj\Debug\net6.0\FitnessCenter.Data.AssemblyInfo.cs
+C:\Users\user1\Desktop\דוט נט\FitnessCenter\FitnessCenter.Data\obj\Debug\net6.0\FitnessCenter.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\דוט נט\FitnessCenter\FitnessCenter.Data\obj\Debug\net6.0\FitnessCenter.Data.csproj.CopyComplete
+C:\Users\user1\Desktop\דוט נט\FitnessCenter\FitnessCenter.Data\obj\Debug\net6.0\FitnessCenter.Data.dll
+C:\Users\user1\Desktop\דוט נט\FitnessCenter\FitnessCenter.Data\obj\Debug\net6.0\refint\FitnessCenter.Data.dll
+C:\Users\user1\Desktop\דוט נט\FitnessCenter\FitnessCenter.Data\obj\Debug\net6.0\FitnessCenter.Data.pdb
+C:\Users\user1\Desktop\דוט נט\FitnessCenter\FitnessCenter.Data\obj\Debug\net6.0\ref\FitnessCenter.Data.dll
