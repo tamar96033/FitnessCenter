@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uyZi217TetAzAYTk8bghiiMoiBhUEkUO5np5oIuzXzfAJhnmKn4LRx89+L+cSEPAgFNg6srPAxRwi0ifHzk7RQ==",
+  "dgSpecHash": "eawGITYTiyRqOlinZbVN99zbSbSuqLqqFFVy7RTHrqvDTeUHffS3ccEEBGN5cvWCVjR0BzF17MCAYCQku6O9Vg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user1\\Desktop\\דוט נט\\FitnessCenter\\FitnessCenter.Core\\FitnessCenter.Core.csproj",
+  "projectFilePath": "C:\\Users\\user1\\Desktop\\netcore\\FitnessCenter\\FitnessCenter.Core\\FitnessCenter.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

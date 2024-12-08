@@ -10,3 +10,15 @@ C:\Users\user1\Desktop\דוט נט\FitnessCenter\FitnessCenter.Core\obj\Debug\ne
 C:\Users\user1\Desktop\דוט נט\FitnessCenter\FitnessCenter.Core\obj\Debug\net6.0\refint\FitnessCenter.Core.dll
 C:\Users\user1\Desktop\דוט נט\FitnessCenter\FitnessCenter.Core\obj\Debug\net6.0\FitnessCenter.Core.pdb
 C:\Users\user1\Desktop\דוט נט\FitnessCenter\FitnessCenter.Core\obj\Debug\net6.0\ref\FitnessCenter.Core.dll
+C:\Users\user1\Desktop\netcore\FitnessCenter\FitnessCenter.Core\bin\Debug\net6.0\FitnessCenter.Core.deps.json
+C:\Users\user1\Desktop\netcore\FitnessCenter\FitnessCenter.Core\bin\Debug\net6.0\FitnessCenter.Core.dll
+C:\Users\user1\Desktop\netcore\FitnessCenter\FitnessCenter.Core\bin\Debug\net6.0\FitnessCenter.Core.pdb
+C:\Users\user1\Desktop\netcore\FitnessCenter\FitnessCenter.Core\obj\Debug\net6.0\FitnessCenter.Core.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\netcore\FitnessCenter\FitnessCenter.Core\obj\Debug\net6.0\FitnessCenter.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\netcore\FitnessCenter\FitnessCenter.Core\obj\Debug\net6.0\FitnessCenter.Core.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\netcore\FitnessCenter\FitnessCenter.Core\obj\Debug\net6.0\FitnessCenter.Core.AssemblyInfo.cs
+C:\Users\user1\Desktop\netcore\FitnessCenter\FitnessCenter.Core\obj\Debug\net6.0\FitnessCenter.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\netcore\FitnessCenter\FitnessCenter.Core\obj\Debug\net6.0\FitnessCenter.Core.dll
+C:\Users\user1\Desktop\netcore\FitnessCenter\FitnessCenter.Core\obj\Debug\net6.0\refint\FitnessCenter.Core.dll
+C:\Users\user1\Desktop\netcore\FitnessCenter\FitnessCenter.Core\obj\Debug\net6.0\FitnessCenter.Core.pdb
+C:\Users\user1\Desktop\netcore\FitnessCenter\FitnessCenter.Core\obj\Debug\net6.0\ref\FitnessCenter.Core.dll

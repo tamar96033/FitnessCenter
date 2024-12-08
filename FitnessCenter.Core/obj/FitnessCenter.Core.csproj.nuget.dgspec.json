@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user1\\Desktop\\דוט נט\\FitnessCenter\\FitnessCenter.Core\\FitnessCenter.Core.csproj": {}
+    "C:\\Users\\user1\\Desktop\\netcore\\FitnessCenter\\FitnessCenter.Core\\FitnessCenter.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user1\\Desktop\\דוט נט\\FitnessCenter\\FitnessCenter.Core\\FitnessCenter.Core.csproj": {
+    "C:\\Users\\user1\\Desktop\\netcore\\FitnessCenter\\FitnessCenter.Core\\FitnessCenter.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\Desktop\\דוט נט\\FitnessCenter\\FitnessCenter.Core\\FitnessCenter.Core.csproj",
+        "projectUniqueName": "C:\\Users\\user1\\Desktop\\netcore\\FitnessCenter\\FitnessCenter.Core\\FitnessCenter.Core.csproj",
         "projectName": "FitnessCenter.Core",
-        "projectPath": "C:\\Users\\user1\\Desktop\\דוט נט\\FitnessCenter\\FitnessCenter.Core\\FitnessCenter.Core.csproj",
+        "projectPath": "C:\\Users\\user1\\Desktop\\netcore\\FitnessCenter\\FitnessCenter.Core\\FitnessCenter.Core.csproj",
         "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\Desktop\\דוט נט\\FitnessCenter\\FitnessCenter.Core\\obj\\",
+        "outputPath": "C:\\Users\\user1\\Desktop\\netcore\\FitnessCenter\\FitnessCenter.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",

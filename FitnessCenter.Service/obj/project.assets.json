@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user1\\Desktop\\דוט נט\\FitnessCenter\\FitnessCenter.Service\\FitnessCenter.Service.csproj",
+      "projectUniqueName": "C:\\Users\\user1\\Desktop\\netcore\\FitnessCenter\\FitnessCenter.Service\\FitnessCenter.Service.csproj",
       "projectName": "FitnessCenter.Service",
-      "projectPath": "C:\\Users\\user1\\Desktop\\דוט נט\\FitnessCenter\\FitnessCenter.Service\\FitnessCenter.Service.csproj",
+      "projectPath": "C:\\Users\\user1\\Desktop\\netcore\\FitnessCenter\\FitnessCenter.Service\\FitnessCenter.Service.csproj",
       "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user1\\Desktop\\דוט נט\\FitnessCenter\\FitnessCenter.Service\\obj\\",
+      "outputPath": "C:\\Users\\user1\\Desktop\\netcore\\FitnessCenter\\FitnessCenter.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\user1\\Desktop\\דוט נט\\FitnessCenter\\FitnessCenter.Core\\FitnessCenter.Core.csproj": {
-              "projectPath": "C:\\Users\\user1\\Desktop\\דוט נט\\FitnessCenter\\FitnessCenter.Core\\FitnessCenter.Core.csproj"
+            "C:\\Users\\user1\\Desktop\\netcore\\FitnessCenter\\FitnessCenter.Core\\FitnessCenter.Core.csproj": {
+              "projectPath": "C:\\Users\\user1\\Desktop\\netcore\\FitnessCenter\\FitnessCenter.Core\\FitnessCenter.Core.csproj"
             }
           }
         }

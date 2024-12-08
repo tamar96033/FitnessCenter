@@ -13,3 +13,18 @@ C:\Users\user1\Desktop\דוט נט\FitnessCenter\FitnessCenter.Service\obj\Debug
 C:\Users\user1\Desktop\דוט נט\FitnessCenter\FitnessCenter.Service\obj\Debug\net6.0\refint\FitnessCenter.Service.dll
 C:\Users\user1\Desktop\דוט נט\FitnessCenter\FitnessCenter.Service\obj\Debug\net6.0\FitnessCenter.Service.pdb
 C:\Users\user1\Desktop\דוט נט\FitnessCenter\FitnessCenter.Service\obj\Debug\net6.0\ref\FitnessCenter.Service.dll
+C:\Users\user1\Desktop\netcore\FitnessCenter\FitnessCenter.Service\bin\Debug\net6.0\FitnessCenter.Service.deps.json
+C:\Users\user1\Desktop\netcore\FitnessCenter\FitnessCenter.Service\bin\Debug\net6.0\FitnessCenter.Service.dll
+C:\Users\user1\Desktop\netcore\FitnessCenter\FitnessCenter.Service\bin\Debug\net6.0\FitnessCenter.Service.pdb
+C:\Users\user1\Desktop\netcore\FitnessCenter\FitnessCenter.Service\bin\Debug\net6.0\FitnessCenter.Core.dll
+C:\Users\user1\Desktop\netcore\FitnessCenter\FitnessCenter.Service\bin\Debug\net6.0\FitnessCenter.Core.pdb
+C:\Users\user1\Desktop\netcore\FitnessCenter\FitnessCenter.Service\obj\Debug\net6.0\FitnessCenter.Service.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\netcore\FitnessCenter\FitnessCenter.Service\obj\Debug\net6.0\FitnessCenter.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\netcore\FitnessCenter\FitnessCenter.Service\obj\Debug\net6.0\FitnessCenter.Service.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\netcore\FitnessCenter\FitnessCenter.Service\obj\Debug\net6.0\FitnessCenter.Service.AssemblyInfo.cs
+C:\Users\user1\Desktop\netcore\FitnessCenter\FitnessCenter.Service\obj\Debug\net6.0\FitnessCenter.Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\netcore\FitnessCenter\FitnessCenter.Service\obj\Debug\net6.0\FitnessCenter.Service.csproj.CopyComplete
+C:\Users\user1\Desktop\netcore\FitnessCenter\FitnessCenter.Service\obj\Debug\net6.0\FitnessCenter.Service.dll
+C:\Users\user1\Desktop\netcore\FitnessCenter\FitnessCenter.Service\obj\Debug\net6.0\refint\FitnessCenter.Service.dll
+C:\Users\user1\Desktop\netcore\FitnessCenter\FitnessCenter.Service\obj\Debug\net6.0\FitnessCenter.Service.pdb
+C:\Users\user1\Desktop\netcore\FitnessCenter\FitnessCenter.Service\obj\Debug\net6.0\ref\FitnessCenter.Service.dll

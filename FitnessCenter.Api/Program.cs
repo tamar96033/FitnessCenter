@@ -26,8 +26,8 @@ builder.Services.AddScoped<IGymnastService, GymnastService>();
 builder.Services.AddScoped<IGymnastRepository, GymnastRepository>();
 
 //building DB
-builder.Services.AddSingleton<DataContext>();
-
+//builder.Services.AddSingleton<DataContext>();
+builder.Services.AddDbContext<DataContext>();
 
 
 var app = builder.Build();
