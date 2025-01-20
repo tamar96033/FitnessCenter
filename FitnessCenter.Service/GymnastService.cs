@@ -11,15 +11,15 @@ namespace FitnessCenter.Service
 {
     public class GymnastService : IGymnastService
     {
-        private readonly IGymnastRepository _gymnastService;
+        private readonly IRepository<Gymnast> _gymnastService;
 
-        public GymnastService(IGymnastRepository gymnastService)
+        public GymnastService(IRepository<Gymnast> gymnastService)
         {
             _gymnastService = gymnastService;
         }
 
 
-        public List<Gymnast> GetAll()
+        public IEnumerable<Gymnast> GetAll()
         {
             return _gymnastService.GetAll();
         }
@@ -31,18 +31,18 @@ namespace FitnessCenter.Service
 
         public void PostGymnast(Gymnast gymnast)
         {
-            _gymnastService.PostGymnast(gymnast);
+            _gymnastService.Update(gymnast);
         }
 
         public void PutGymnast(int id, Gymnast s)
         {
-            _gymnastService.PutGymnast(id, s);
+            _gymnastService.Add(s);
         }
 
 
         public void DeleteById(int id)
         {
-            _gymnastService.DeleteById(id);
+            _gymnastService.Delete(id);
         }
 
     }

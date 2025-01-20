@@ -9,7 +9,7 @@ namespace FitnessCenter.Core.Services
 {
     public interface IGuideService
     {
-        List<Guide> GetAll();
+        IEnumerable<Guide> GetAll();
 
         Guide GetById(int id);
 

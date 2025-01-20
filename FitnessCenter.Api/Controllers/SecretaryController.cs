@@ -1,4 +1,5 @@
-﻿using FitnessCenter.Core.Models;
+﻿using FitnessCenter.Core.DTO;
+using FitnessCenter.Core.Models;
 using FitnessCenter.Core.Services;
 using FitnessCenter.Service;
 using Microsoft.AspNetCore.Mvc;
@@ -37,7 +38,7 @@ namespace FitnessCenter.Api.Controllers
         }
 
         [HttpPost]
-        public void Post([FromBody] Secretary secretary)
+        public void Post([FromBody] SecretaryPostDTO secretary)
         {
             _secretaryService.PostSecretary(secretary);
         }

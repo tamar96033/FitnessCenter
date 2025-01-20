@@ -11,19 +11,19 @@ namespace FitnessCenter.Service
 {
     public class GuideService : IGuideService
     {
-        private readonly IGuideRepository _guideService;
+        private readonly IRepository<Guide> _guideService;
 
-        public GuideService(IGuideRepository guideService)
+        public GuideService(IRepository<Guide> guideService)
         {
             _guideService = guideService;
         }
 
         public void DeleteById(int id)
         {
-            _guideService.DeleteById(id);
+            _guideService.Delete(id);
         }
 
-        public List<Guide> GetAll()
+        public IEnumerable<Guide> GetAll()
         {
             return _guideService.GetAll();
         }
@@ -35,12 +35,12 @@ namespace FitnessCenter.Service
 
         public void PostGuide(Guide guide)
         {
-            _guideService.PostGuide(guide);
+            _guideService.Update(guide);
         }
 
         public void PutGuide(int id, Guide g)
         {
-            _guideService.PutGuide(id, g);
+            _guideService.Add(g);
         }
     }
 }

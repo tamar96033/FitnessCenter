@@ -1,4 +1,5 @@
 ﻿using FitnessCenter.Core.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +10,7 @@ namespace FitnessCenter.Core.Repositories
 {
     public interface IGymnastRepository
     {
-        List<Gymnast> GetAll();
+        DbSet<Gymnast> GetAll();
 
         Gymnast GetById(int id);
 

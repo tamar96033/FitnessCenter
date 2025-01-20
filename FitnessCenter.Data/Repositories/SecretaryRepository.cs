@@ -1,5 +1,7 @@
-﻿using FitnessCenter.Core.Models;
+﻿using FitnessCenter.Core.DTO;
+using FitnessCenter.Core.Models;
 using FitnessCenter.Core.Repositories;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,7 +18,7 @@ namespace FitnessCenter.Data.Repositories
             _context = context;
         }
 
-        public List<Secretary> GetAll()
+        public DbSet<Secretary> GetAll()
         {
             return _context.secretaryList;
         }
@@ -33,14 +35,17 @@ namespace FitnessCenter.Data.Repositories
             secretary.Name = s.Name;
         }
 
-        public void PostSecretary(Secretary secretary)
+        public void PostSecretary(SecretaryPostDTO secretary)
         {
-            _context.secretaryList.Add(secretary);
+            Random rand = new Random();
+            Secretary sec = new Secretary() { ID = rand.Next(0, 100), Name = secretary.Name };
+            _context.secretaryList.Add(sec);
         }
 
         public void DeleteById(int id)
         {
             _context.secretaryList.Remove(_context.secretaryList.First(s => s.ID == id));
         }
+
     }
 }

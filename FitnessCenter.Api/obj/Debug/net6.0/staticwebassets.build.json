@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "BqVx54nR7aB6xkEQY9pFoUCH8Sp1pbGRRrqJoR9M8S8=",
+  "Hash": "BZJGayfCmbZe/qw60a8P55+vHGl/CGuV5LuXaasDSDk=",
   "Source": "FitnessCenter.Api",
   "BasePath": "_content/FitnessCenter.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

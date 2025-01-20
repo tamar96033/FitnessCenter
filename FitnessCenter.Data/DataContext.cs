@@ -1,4 +1,5 @@
-﻿using FitnessCenter.Core.Models;
+﻿using FitnessCenter.Core.DTO;
+using FitnessCenter.Core.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -10,9 +11,9 @@ namespace FitnessCenter.Data
 {
     public class DataContext : DbContext
     {
-        public List<Secretary> secretaryList { get; set; }
-        public List<Gymnast> gymnastList { get; set; }
-        public List<Guide> guideList { get; set; }
+        public DbSet<Secretary> secretaryList { get; set; }
+        public DbSet<Gymnast> gymnastList { get; set; }
+        public DbSet<Guide> guideList { get; set; }
  
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

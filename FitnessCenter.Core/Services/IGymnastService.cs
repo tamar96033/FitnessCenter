@@ -9,7 +9,7 @@ namespace FitnessCenter.Core.Services
 {
     public interface IGymnastService
     {
-        List<Gymnast> GetAll();
+        IEnumerable<Gymnast> GetAll();
 
         Gymnast GetById(int id);
 

@@ -1,3 +1,4 @@
+using FitnessCenter.Api;
 using FitnessCenter.Core.Repositories;
 using FitnessCenter.Core.Services;
 using FitnessCenter.Data;
@@ -15,20 +16,24 @@ builder.Services.AddSwaggerGen();
 
 //building secretary
 builder.Services.AddScoped<ISecretaryService, SecretaryService>();
-builder.Services.AddScoped<ISecretaryRepository, SecretaryRepository>();
+//builder.Services.AddScoped<ISecretaryRepository, SecretaryRepository>();
 
 //building guide
 builder.Services.AddScoped<IGuideService, GuideService>();
-builder.Services.AddScoped<IGuideRepository, GuideRepository>();
+//builder.Services.AddScoped<IGuideRepository, GuideRepository>();
 
 //building gymnast 
 builder.Services.AddScoped<IGymnastService, GymnastService>();
-builder.Services.AddScoped<IGymnastRepository, GymnastRepository>();
+//builder.Services.AddScoped<IGymnastRepository, GymnastRepository>();
 
 //building DB
 //builder.Services.AddSingleton<DataContext>();
 builder.Services.AddDbContext<DataContext>();
 
+//for generic repository
+builder.Services.AddScoped<IRepositoryManager, RepositoryManager>();
+builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+builder.Services.AddAutoMapper(typeof(MappingProfile));
 
 var app = builder.Build();
 

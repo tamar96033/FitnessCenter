@@ -1,5 +1,6 @@
 ﻿using FitnessCenter.Core.Models;
 using FitnessCenter.Core.Repositories;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,7 +18,7 @@ namespace FitnessCenter.Data.Repositories
         }
 
 
-        public List<Guide> GetAll()
+        public DbSet<Guide> GetAll()
         {
             return _context.guideList;
         }
